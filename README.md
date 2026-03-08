@@ -48,6 +48,14 @@ The dataset contains approximately 9,800 retail transactions with information ab
 
 ![Top Products](visuals/top_products_chart.png)
 
+## Key Insights
+
+- The West region generated the highest total sales.
+- Technology products contributed the largest revenue.
+- New York City produced the highest city-level sales.
+- A small number of products drive a disproportionate share of revenue.
+
+
 ## Project Structure
 
 
